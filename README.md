@@ -1,4 +1,4 @@
 uav_pres
 ========
 
-UAV::Pilot Presentation
+UAV::Pilot Presentation, YAPC edition
